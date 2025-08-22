@@ -1,7 +1,7 @@
 .idea
 node_modules
 
-## General
-#.DS_Store
-#.AppleDouble
-#.LSOverride
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
